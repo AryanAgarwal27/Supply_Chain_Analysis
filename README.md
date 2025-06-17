@@ -31,6 +31,7 @@ This project explores and analyzes the **DataCo Supply Chain Dataset** with the 
 - **RFM Analysis**: Recency, Frequency, Monetary scoring
 - **Clustering**: K-Means applied to RFM scores
 - **Dashboard**: Interactive customer profile exploration in Tableau
+  ![Customer Segmentation ](https://github.com/AryanAgarwal27/Supply_Chain_Analysis/blob/main/Tableau/CS_2.jpg)  ![Customer Segmentation ](https://github.com/AryanAgarwal27/Supply_Chain_Analysis/blob/main/Tableau/cs_3d.jpg)
 
 ### Fraud Detection
 
@@ -47,6 +48,7 @@ This project explores and analyzes the **DataCo Supply Chain Dataset** with the 
   - ARIMA for univariate forecasts
   - LSTM for sequential modeling of sales data
 - **Evaluation**: RMSE and MAE used to validate prediction accuracy
+  ![Sales Forecasting](https://github.com/AryanAgarwal27/Supply_Chain_Analysis/blob/main/Tableau/SF.png)
 
 ## 📈 Tools & Libraries
 
